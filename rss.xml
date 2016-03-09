@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Society]]></title>
+        <description><![CDATA[Society]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 13:38:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Evento CAT]]></title>
+            <description><![CDATA[<article><h1>Evento CAT</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/366fdab5391b36988dbd02f7171ec8e569c945d8.png"></article>]]></description>
+            <link>undefinedevento-cat/index.html</link>
+            <guid isPermaLink="false">7d925afd-e6f7-406f-9b7d-c87482dcc8e5</guid>
+            <pubDate>Wed, 09 Mar 2016 13:38:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
