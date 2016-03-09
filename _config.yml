@@ -1,14 +1,26 @@
-layout_spectrum: 0.2334655
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4958257
 color:
-  saturation: 0.9492288
-  lightness: 0.01969744
-  brandStrength: 0.05827357
-  rhythmicContrast: 0.08366353
+  saturation: 0.5765957
+  brandStrength: 0.4531915
+  lightness: 0.3957447
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  rhythmicContrast: 0.4531915
+layout_spectrum: 0.2468085
 name: Society
