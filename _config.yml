@@ -1,0 +1,14 @@
+layout_spectrum: 0.2334655
+typography_spectrum: 0.4958257
+color:
+  saturation: 0.9492288
+  lightness: 0.01969744
+  brandStrength: 0.05827357
+  rhythmicContrast: 0.08366353
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Society
