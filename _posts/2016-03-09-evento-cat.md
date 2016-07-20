@@ -1,15 +1,12 @@
 ---
-description: ''
 author: []
-datePublished: '2016-03-09T13:38:36.628Z'
-publisher:
-  name: ''
-  domain: ''
+dateModified: '2016-07-20T13:34:28.370Z'
+datePublished: '2016-07-20T13:34:50.235Z'
+description: ''
+publisher: null
 title: Evento CAT
-dateModified: '2016-03-09T13:38:27.740Z'
 starred: true
 sourcePath: _posts/2016-03-09-evento-cat.md
-published: true
 inFeed: true
 hasPage: true
 inNav: false
@@ -18,5 +15,5 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Evento CAT
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91969d9f-345c-4182-9c38-4ccbb5796829.png)
+## Evento CAT
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/366fdab5391b36988dbd02f7171ec8e569c945d8.png)
