@@ -1,26 +1,14 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.4958257
 color:
-  saturation: 0.5765957
+  brandColors:
+    - '#579BD8'
+    - '#D3DBE8'
+    - '#10150F'
+    - '#9EA659'
+    - '#916C51'
   brandStrength: 0.4531915
   lightness: 0.3957447
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
   rhythmicContrast: 0.4531915
-layout_spectrum: 0.2468085
+  saturation: 0.5765957
+layout_spectrum: 0.20477
 name: Society
+typography_spectrum: 0.4958257
