@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Society]]></title>
         <description><![CDATA[Society]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/society/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 13:38:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 13:34:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/society/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Evento CAT]]></title>
             <description><![CDATA[<article><h1>Evento CAT</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/366fdab5391b36988dbd02f7171ec8e569c945d8.png"></article>]]></description>
-            <link>undefinedevento-cat/index.html</link>
+            <link>https://thegrid.ai/society/evento-cat/index.html</link>
             <guid isPermaLink="false">7d925afd-e6f7-406f-9b7d-c87482dcc8e5</guid>
-            <pubDate>Wed, 09 Mar 2016 13:38:36 GMT</pubDate>
+            <pubDate>Wed, 20 Jul 2016 13:34:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
