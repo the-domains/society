@@ -1,3 +1,4 @@
+typography_spectrum: 0.4958257
 color:
   brandColors:
     - '#579BD8'
@@ -11,4 +12,4 @@ color:
   saturation: 0.5765957
 layout_spectrum: 0.20477
 name: Society
-typography_spectrum: 0.4958257
+title: Society Agency
